@@ -1,0 +1,16 @@
+PODS:
+  - MyProject1 (0.1.0)
+
+DEPENDENCIES:
+  - MyProject1 (from `../`)
+
+EXTERNAL SOURCES:
+  MyProject1:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  MyProject1: cb094a00a141fa587623197b9e471935715f0504
+
+PODFILE CHECKSUM: 6678cd0e16da46bc164ddcfe9b27a442f03ce3c0
+
+COCOAPODS: 1.9.1
